@@ -1,0 +1,11 @@
+name = 'Igor'
+print (name)
+nameA = 'Age: '
+nameB = 50
+print (nameA, nameB)
+nameC = 'New Age: '
+nameD = int(nameB + 1)
+print (nameC, nameD)
+nameE = 'Is_student: '
+nameD = bool(True)
+print (nameE, nameD)
