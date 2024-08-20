@@ -6,4 +6,4 @@ for i in range(2, k // 2+1):
 if (k <= 0):
     print('primes: = []')
 else:
-    print('not_primes: = []')
+    #print('not_primes: = []')
