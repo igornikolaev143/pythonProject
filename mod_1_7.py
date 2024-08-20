@@ -9,4 +9,6 @@ grades_m = [sum(grades[0])/len(grades[0]), sum(grades[1])/len(grades[1]),
             sum(grades[4])/len(grades[4])]
 print (grades_m)
 dict1 = dict(zip(students_sort, grades_m))
+#
 print (dict1)
+
